@@ -5,7 +5,7 @@ public class HelloWord {
 		System.out.println("Hello world");
 		System.out.println();
 		
-		System.out.println("zongzhenzhen");
+		
 		
 		
 		System.out.println();
