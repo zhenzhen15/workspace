@@ -1,0 +1,34 @@
+package com.mypro.jase;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
+
+public class Login163 {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("163 mail login");
+		
+		WebDriver driver = new FirefoxDriver();
+		
+		 driver.get("http://mail.163.com");
+		 driver.findElement(By.id("idInput")).clear();
+		 driver.findElement(By.id("idInput")).sendKeys("usename");
+		 driver.findElement(By.id("pwdInput")).clear();
+		 driver.findElement(By.id("pwdInput")).sendKeys("usepassword");
+		 driver.findElement(By.id("loginBtn")).click();
+		
+//		driver.get("http://www.126.com");
+//		driver.findElement(By.id("auto-id-1463127447460")).clear();
+//		driver.findElement(By.id("auto-id-1463127447460")).sendKeys("janyzhenz");
+//		driver.findElement(By.id("auto-id-1463127447463")).clear();
+//		driver.findElement(By.className("auto-id-1463127447463")).sendKeys("zong890105");
+//		driver.findElement(By.id("dologin")).click();
+
+	}
+
+}

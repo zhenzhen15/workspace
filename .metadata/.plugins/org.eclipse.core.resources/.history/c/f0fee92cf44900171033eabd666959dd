@@ -1,0 +1,19 @@
+import org.omg.CORBA.PRIVATE_MEMBER;
+
+
+public class a {
+
+	/**
+	 * @param args
+	 */
+	
+	public  int a1=3;
+	
+	public static void main(String[] args) {
+		
+		// TODO Auto-generated method stub
+		a b=new a();
+
+	}
+
+}
