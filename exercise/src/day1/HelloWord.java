@@ -6,6 +6,7 @@ public class HelloWord {
 		System.out.println();
 		
 		System.out.println("zongzhenzhen");
+		System.out.println("1.9.2");
 		
 		
 		System.out.println();
