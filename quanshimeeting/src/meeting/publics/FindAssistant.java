@@ -5,8 +5,6 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Calendar;
 
-import android.bluetooth.BluetoothClass.Device;
-
 import com.android.uiautomator.core.UiDevice;
 import com.android.uiautomator.core.UiObject;
 import com.android.uiautomator.core.UiObjectNotFoundException;
@@ -90,7 +88,7 @@ public class FindAssistant  extends UiAutomatorTestCase{
 		//获取当前时间
 		Calendar calendar = Calendar.getInstance();
 		calendar.setTimeInMillis(System.currentTimeMillis());
-		String dateStr = calendar.get(Calendar.HOUR_OF_DAY)+":"+calendar.get(Calendar.MINUTE)+":"+calendar.get(calendar.SECOND);
+		String dateStr = calendar.get(Calendar.HOUR_OF_DAY)+":"+calendar.get(Calendar.MINUTE)+":"+calendar.get(Calendar.SECOND);
 		
 		//保存文件
 		File screens = new File("/sdcard/screens");
@@ -110,7 +108,7 @@ public class FindAssistant  extends UiAutomatorTestCase{
 		//获取当前时间
 		Calendar calendar = Calendar.getInstance();
 		calendar.setTimeInMillis(System.currentTimeMillis());
-		String dateStr = calendar.get(Calendar.HOUR_OF_DAY)+":"+calendar.get(calendar.MINUTE)+":"+calendar.get(calendar.SECOND);
+		String dateStr = calendar.get(Calendar.HOUR_OF_DAY)+":"+calendar.get(Calendar.MINUTE)+":"+calendar.get(Calendar.SECOND);
 		FileWriter fwlog = null;
 		
 		try {
