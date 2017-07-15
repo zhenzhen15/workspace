@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
-<listEntry value="/Sample_Uia/src/com/hj/autotest/AutoTest.java"/>
+<listEntry value="/quanshimeeting/src/meeting/test/AutoTest.java"/>
 </listAttribute>
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
 <listEntry value="1"/>
 </listAttribute>
-<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="com.hj.autotest.AutoTest"/>
-<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="Sample_Uia"/>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="meeting.test.AutoTest"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="quanshimeeting"/>
 </launchConfiguration>

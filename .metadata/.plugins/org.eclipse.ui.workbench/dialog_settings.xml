@@ -13,8 +13,8 @@
 		</list>
 	</section>
 	<section name="WorkbenchPreferenceDialogSettings">
-		<item value="-81" key="DIALOG_Y_ORIGIN"/>
-		<item value="163" key="DIALOG_X_ORIGIN"/>
+		<item value="8" key="DIALOG_Y_ORIGIN"/>
+		<item value="51" key="DIALOG_X_ORIGIN"/>
 	</section>
 	<section name="NewWizardAction">
 	</section>
@@ -27,6 +27,8 @@
 		<item value="org.eclipse.ui.wizards.import.ExternalProject" key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID"/>
 		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
 			<item value="org.eclipse.ui.Basic"/>
+			<item value="org.maven.ide.eclipse"/>
+			<item value="org.eclipse.team.ui.importWizards"/>
 		</list>
 	</section>
 </section>

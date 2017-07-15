@@ -2,9 +2,22 @@
 <qualifiedTypeNameHistroy>
 <fullyQualifiedTypeName name="java.io.BufferedWriter"/>
 <fullyQualifiedTypeName name="java.io.Writer"/>
-<fullyQualifiedTypeName name="java.io.FileWriter"/>
 <fullyQualifiedTypeName name="org.junit.Test"/>
 <fullyQualifiedTypeName name="org.openqa.selenium.firefox.FirefoxDriver"/>
+<fullyQualifiedTypeName name="com.android.uiautomator.core.UiDevice"/>
 <fullyQualifiedTypeName name="java.lang.System"/>
 <fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="com.android.ddmlib.IDevice.DeviceState"/>
+<fullyQualifiedTypeName name="android.R.integer"/>
+<fullyQualifiedTypeName name="com.hj.autotest.UiAutomatorTool"/>
+<fullyQualifiedTypeName name="com.hj.autotest.UiautomatorAsssistant"/>
+<fullyQualifiedTypeName name="java.util.Calendar"/>
+<fullyQualifiedTypeName name="java.io.FileWriter"/>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="org.omg.CosNaming.NamingContextPackage.AlreadyBound"/>
+<fullyQualifiedTypeName name="javax.swing.plaf.metal.MetalIconFactory.FolderIcon16"/>
+<fullyQualifiedTypeName name="com.android.uiautomator.core.UiObject"/>
+<fullyQualifiedTypeName name="com.android.uiautomator.core.UiSelector"/>
+<fullyQualifiedTypeName name="android.text.format.Time"/>
 </qualifiedTypeNameHistroy>

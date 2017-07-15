@@ -1,1 +1,39 @@
-error: device not found
+//将远程代码拉倒本地
+git clone https://github.com/zhenzhen15/Sample_Uia.git
+
+//查看提交历史记录
+git log 
+
+//将本地代码设置到制定版本，用于版本回退
+git reset --hard  asjcjascjaslcjals
+
+//查看当前分支
+git branch 
+
+//切换分支
+git checkout 9.1.0
+
+//放弃本地修改
+git checkout .
+
+将工作文件修改提交到本地暂存区
+git add .
+
+//将暂存区提交到本地仓库
+git commit -m 'update code'
+
+//将远程代码 master 分支代码 拉渠到本地
+git pull origin master
+
+//将带提交区代码推倒远程 master分支
+git push origin masters
+
+查看git命令帮助
+git help
+
+//查看本地没有被git管理的文件 和没有被提交的文件
+git status
+
+
+
+http://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html
